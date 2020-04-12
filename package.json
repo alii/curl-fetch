@@ -1,0 +1,16 @@
+{
+  "name": "curl-fetch",
+  "description": "Fetch style wrapper around request-curl",
+  "author": {
+    "url": "https://aabbccsmith.dev",
+    "name": "Alistair Smith",
+    "email": "alistairsmith01@gmail.com"
+  },
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.0.4",
+    "request-curl": "^1.2.7"
+  }
+}
